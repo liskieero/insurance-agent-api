@@ -5,7 +5,7 @@ This project is an API service built on the Google Cloud Platform (GCP) that uti
 ## Why is this project useful?
 
 * **Business Value:** Automates the manual work typically done by claims handlers. It provides customers with instant and consistent answers to questions about their insurance policies, improving the customer experience.
-* **Technical Showcase:** Demonstrates how to build a modern AI architecture (RAG + Agents) in the cloud. It shows the ability to process unstructured data (PDFs), build multi-step reasoning chains, and utilize external tools (like a calculator).
+* **Technical Showcase:** Demonstrates how to build a modern AI architecture (RAG + Agents) in the cloud. It shows the ability to process unstructured data (PDFs), build multi-step reasoning chains, and utilize external tools.
 
 ---
 
